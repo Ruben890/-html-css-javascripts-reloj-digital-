@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+
+.conteiner {
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  border: solid 2px #605063;
+  transform: translate(0, 100%);
+  text-align: center;
+  background-color: #61ada0;
+  width: 25rem;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #248f8d;
+}
+
+.hora {
+  font-size: 50px;
+  font-family: "Silkscreen", cursive;
+}
+
+.fecha {
+  font-family: "Silkscreen", cursive;
+}
